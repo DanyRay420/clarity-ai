@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@mozilla/readability": "^0.4.2",
-    "@next/font": "13.1.6",
+    "@next/font": "13.5.6",
     "@tabler/icons": "^2.4.0",
     "@tabler/icons-react": "^2.4.0",
     "@types/node": "18.14.0",
